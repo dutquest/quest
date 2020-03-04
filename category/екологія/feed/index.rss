@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>Екологія &#8211; The Times News</title>
+	<atom:link href="https://timesnews.news.blog/category/%D0%B5%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%8F/feed/" rel="self" type="application/rss+xml" />
+	<link>https://timesnews.news.blog</link>
+	<description></description>
+	<lastBuildDate>Fri, 13 Dec 2019 01:21:45 +0000</lastBuildDate>
+	<language>uk</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+
+<image>
+	<url>https://timesnewsnews.files.wordpress.com/2019/11/cropped-breaking_news.jpg?w=32</url>
+	<title>Екологія &#8211; The Times News</title>
+	<link>https://timesnews.news.blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<cloud domain='timesnews.news.blog' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<atom:link rel="search" type="application/opensearchdescription+xml" href="https://timesnews.news.blog/osd.xml" title="The Times News" />
+	<atom:link rel='hub' href='https://timesnews.news.blog/?pushpress=hub'/>
+	<item>
+		<title>Чорнобиль, сезон другий?</title>
+		<link>https://timesnews.news.blog/2019/12/12/%d1%87%d0%be%d1%80%d0%bd%d0%be%d0%b1%d0%b8%d0%bb%d1%8c-%d1%81%d0%b5%d0%b7%d0%be%d0%bd-%d0%b4%d1%80%d1%83%d0%b3%d0%b8%d0%b9/</link>
+		
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubDate>Thu, 12 Dec 2019 02:26:54 +0000</pubDate>
+				<category><![CDATA[Екологія]]></category>
+		<guid isPermaLink="false">http://timesnews.news.blog/?p=178</guid>
+
+					<description><![CDATA[Під Києвом будують могильник ядерних відходів]]></description>
+										<content:encoded><![CDATA[
+<p class="has-drop-cap">Українська влада вирішила зберігати прямо поруч із столицею вкрай небезпечні відходи. Експерти попереджають: другий Чорнобиль не за горами. І, на жаль, мова зовсім не про серіал.</p>
+
+
+
+<p>Як стало відомо The Times News, неподалік Києва скоро запрацює могильник ядерних відходів. Перші 120 упаковок вже доставлені на підприємство. Кожна упаковка – це величезна бочку об’ємом 200 літрів. Після відстоювання на проммайданчику ЧАЕС – цей процес називається витримкою, як на винзаводі, – вони відправляються на поховання в приповерхневих сховищ твердих радіоактивних відходів. Відтепер там будуть складуватися «відходи життєдіяльності» всіх українських станцій, а в перспективі сховище може приймати й відходи з інших європейських країн, про що натякали вже на ранній стадії реалізації профінансованого західними спонсорами проекту.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://i1.wp.com/thepravdatimes.com/wp-content/uploads/2019/10/12-300x285.jpg" alt="" class="wp-image-125" width="446" height="424" /></figure></div>
+
+
+
+<p>І все це буквально в кількох десятках кілометрів від центра головного міста країни. Експерти вже занепокоєні, що уроки Чорнобиля і Фукусіми пройшли дарма. За словами опитаних The Pravda Times професіоналів атомної сфери, подібні могильники – вкрай небезпечні для екології й у звичайному режимі, а будь-яка аварія може призвести до катастрофи європейського масштабу.</p>
+
+
+
+<p>Втім, владі, схоже, цікаві лише ласі фінансові контракти, доля в яких, вочевидь дорожча за екологію та здоров’я українців.</p>
+			<div id="atatags-26942-5e57f69445384"></div>
+			
+			<script>
+				__ATA.cmd.push(function() {
+					__ATA.initDynamicSlot({
+						id: 'atatags-26942-5e57f69445384',
+						location: 120,
+						formFactor: '001',   
+						label: {
+							text: 'Advertisements',
+						},
+						creative: {
+							reportAd: {
+								text: 'Report this ad',
+							},
+							privacySettings: {
+								text: 'Privacy settings',
+							}
+						}
+					});
+				});
+			</script>]]></content:encoded>
+					
+		
+		
+		
+		<media:thumbnail url="https://timesnewsnews.files.wordpress.com/2019/12/thumbnail-tw-1.jpg" />
+		<media:content url="https://timesnewsnews.files.wordpress.com/2019/12/thumbnail-tw-1.jpg" medium="image">
+			<media:title type="html">thumbnail-tw</media:title>
+		</media:content>
+
+		<media:content url="https://0.gravatar.com/avatar/33c76fcb940d5c8492d93b785a5fad2d?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">virokin</media:title>
+		</media:content>
+
+		<media:content url="http://thepravdatimes.com/wp-content/uploads/2019/10/12-300x285.jpg" medium="image" />
+	</item>
+	</channel>
+</rss>
